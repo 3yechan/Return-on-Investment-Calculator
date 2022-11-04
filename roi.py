@@ -69,7 +69,6 @@ Options:
 [3] Cash Flow
 [4] Calculate ROI
 [5] Quit
-[6] Print Instructions
         """)
     def run():
         Main.showInstructions()
@@ -87,7 +86,7 @@ Options:
             elif choice == "5":
                 print("Thank you for using our program *bow*")
                 break
-            elif choice == "6":
+            elif choice.lower.strip() == "print instructions: #SECRET COMMAND
                 print("""[1] Add Source of Income
 [2] Add Expenses
 [3] Cash Flow
