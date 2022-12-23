@@ -1,3 +1,9 @@
-# Return-on-Investment-Calculator
+With this ROI calculator, You can:
 
-Just make sure to change variable names, or alter it slightly to your needs and preferences. 
+Add income sources - ('Amazon', 'Spotify', 'cryptocurrency', 'stocks', ...), 
+
+Subtract expenses - ('phone_bill', 'electricity', 'rent', ...)
+
+, and calculate yearly +/-. ROI is calculated on an annual basis, so make sure to multiply monthly or bimonthly incomes/expenses accordingly.
+
+NOTE: a tax system is not implemented, so please make sure to edit your variables before, or apply tax afterwards.
